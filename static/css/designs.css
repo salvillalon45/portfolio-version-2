@@ -1,0 +1,27 @@
+/* ------------------------------------
+   Desgins
+*/
+.section {
+  margin-top: 50px;
+}
+
+.row.extra-exp {
+  margin-top: 50px;
+}
+
+.design-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.logo-pics {
+  margin: auto;
+}
+
+.logo-pics img{
+  height: 150px;
+}
+
+.logo-pics .first img{
+  margin-right: 120px;
+}

@@ -1,0 +1,44 @@
+/* ------------------------------------
+   Recent Projects
+*/
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+}
+
+.row.recent-proj {
+  margin-top: 50px;
+}
+.recent-proj .pics img {
+  display: block;
+  height: 250px;
+  margin: auto;
+}
+
+.section {
+  margin-top: 50px;
+}
+
+
+/* ------------------------------------
+   Front-End Projects
+*/
+.front-end-project .pics {
+  width: 500px;
+  height: 250px;
+}
+
+.col-md-6 .front-end-project {
+  margin-top: 50px;
+}
+
+
+/* ------------------------------------
+   GitHub Button
+*/
+.github-btn {
+  margin-top: 50px;
+}

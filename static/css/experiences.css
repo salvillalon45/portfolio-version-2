@@ -1,0 +1,31 @@
+/* ------------------------------------
+   Experiences
+*/
+.section {
+  margin-top: 50px;
+}
+
+.row.extra-exp {
+  margin-top: 50px;
+}
+
+.exp-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+/* ------------------------------------
+   Separating Line
+*/
+hr {
+  border-top: 5px solid #79828c75;
+}
+
+
+/* ------------------------------------
+   LinkedIn Button
+*/
+.lk-id-btn {
+  margin-top: 50px;
+}
