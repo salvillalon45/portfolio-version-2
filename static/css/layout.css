@@ -18,6 +18,9 @@ h2 {
   background-color: black !important;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
 
 /* This will insert a space of height 75px before every id:
    https://github.com/twbs/bootstrap/issues/1768 check the solution from @mnot
