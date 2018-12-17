@@ -14,6 +14,13 @@
   font-weight: bold;
 }
 
+.pics img {
+  display: block;
+  height: 150px;
+  /* width: 100px; */
+  margin: auto;
+}
+
 
 /* ------------------------------------
    Separating Line
