@@ -12,9 +12,17 @@ li {
 .row.recent-proj {
   margin-top: 50px;
 }
+
 .recent-proj .pics img {
   display: block;
   height: 250px;
+  margin: auto;
+}
+
+.recent-proj .pics.jamming img {
+  display: block;
+  height: 250px;
+  width: 475px;
   margin: auto;
 }
 
