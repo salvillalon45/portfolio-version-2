@@ -3,13 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="50434a96-ba6f-4e2c-87d8-f2e2eaa1b3ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/logos/jpmc_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/logos/jpmc_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/designs.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/designs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/experiences.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/experiences.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/experiences_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/projects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/front_end/colmar_academy.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/front_end/fotomatic.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/front_end/jumpstart.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/front_end/random_quote.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/front_end/secret_agent.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/front_end/shell_optics.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/front_end/tea_cozy.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/front_end/tribute_page.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/recent/flask_tutorial_banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/projects/2018/flask_tutorial_banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/recent/jamming.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/projects/2019/jamming.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/recent/jpmc.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/projects/2018/jpmc.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/recent/jpmc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/recent/jpmc_thoughts.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/projects/2019/jpmc_thoughts.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/recent/legacy_repo.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/projects/2018/legacy_repo.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/recent/pokedex.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/projects/2018/pokedex.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/recent/search_engine.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/projects/2019/search_engine.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/recent/web_ver_1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/projects/2017/web_ver_1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/recent/web_ver_2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/projects/2018/web_ver_2.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/student_experiences.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/student_experiences.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +53,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
-  </component>
   <component name="ProjectId" id="1ZYMSYGrMqWhMqZ6twSNITvqGoh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,12 +64,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jpmc_thougths" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images/projects/2020" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\projects\salvillalon45.github.io\static\images\projects\2019" />
+      <recent name="C:\Users\User\Documents\projects\salvillalon45.github.io\static\images\projects\2018" />
+      <recent name="C:\Users\User\Documents\projects\salvillalon45.github.io\static\images\projects" />
+      <recent name="C:\Users\User\Documents\projects\salvillalon45.github.io\static\images\projects\freeCodeCamp\2017" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\projects\salvillalon45.github.io\static\images\projects\2020" />
+      <recent name="C:\Users\User\Documents\projects\salvillalon45.github.io\templates" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -73,7 +94,9 @@
       <option name="presentableId" value="Default" />
       <updated>1567209560371</updated>
       <workItem from="1567209561654" duration="2109000" />
-      <workItem from="1585011576986" duration="3083000" />
+      <workItem from="1585011576986" duration="3899000" />
+      <workItem from="1585087163897" duration="41000" />
+      <workItem from="1585169058854" duration="14198000" />
     </task>
     <servers />
   </component>
@@ -85,10 +108,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="719" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585011874914" />
-    <state x="632" y="144" width="611" height="536" key="find.popup" timestamp="1585013753051">
+    <state x="632" y="144" width="611" height="536" key="find.popup" timestamp="1585257448446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="632" y="144" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1585013753051" />
+    <state x="632" y="144" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1585257448446" />
+    <state x="536" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585171158923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="536" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585171158923" />
   </component>
   <component name="masterDetails">
     <states>

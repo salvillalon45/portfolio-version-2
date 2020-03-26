@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" name="viewport" content="width=device-width,initial-scale=1">
+    <title>Salvador Villalon Projects</title>
+
+    <link rel="icon" href= "../static/images/salvador logo/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="../static/css/reset.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css">
+    <link href="https://fonts.googleapis.com/css?family=PT+Mono" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Archivo+Black" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../static/css/layout.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/projects.css">
+
+  </head>
+  <body>
+
+    <section>
+      <header>
+        <!-- fixed-top makes the navbar stick to the top of the screen as the user is scrolling -->
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <!-- ml-auto makes content of navbar to the left, but not the logo -->
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="../index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="projects.html">Projects</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="experiences.html">Experience</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="designs.html">Designs</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </header>
+    </section>
+
+  <main>
+    <!-- *************************************
+      Jumbotron Section
+    -->
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container-fluid">
+        <h1>Salvador Villalon</h1>
+        <h3><em>The Projects in 2020</em></h3>
+      </div>
+    </div>
+
+
+    <!-- *************************************
+      Recent Projects Section
+    -->
+    <div class="section">
+      <div class="container">
+        <h2>2020 Projects</h2>
+
+        <!-- *************************************
+          Buttons Section
+        -->
+        <div class="github-btn">
+          <h3>Find more projects on my GitHub Page!</h3>
+          <a class="btn btn-primary"  href="https://github.com/salvillalon45" role="button">Find more on GitHub</a>
+        </div>
+
+        <!-- ********************************** -->
+        <!-- CS 122B FabFlix -->
+        <div class="row recent-proj">
+          <div class="col-md-6">
+            <div class="project-description">
+              <p class="project-title"><em>CS 122B: FabFlix</em></p>
+              <p>March 2020</p>
+              <p>A Full Stack Web Application build in my CS 122B: Project in Databases and Web Application class. This project consists of
+                5 microservices (API Gateway, Identity Management, Movies Service, Billing Service, Payment Service) I built a Frontend
+                using React that talks to the API Gateway. Then the API Gateway is the one that talks to the others services. I used MySQL
+                and JDBC to managa all database interactions. Also used HikariConnection Pool to manage requests from users.
+                <strong>Something that I am proud of is that this is the second time I take this class since the first time I got an F
+                but after this quarter I got an A+!
+                  I learned a lot in this course. I am grateful for taking it again.</strong>
+              </p>
+              <p><strong>Technologies Used:</strong> MySQL, JDBC, HTML, CSS, JavaScript, React, Ajax, React</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 pics">
+            <img src="../static/images/projects/2020/cs122b.PNG">
+          </div>
+        </div>
+
+        <!-- ********************************** -->
+        <!-- CS 175 Detecting Fake Reviews -->
+        <div class="row recent-proj">
+          <div class="col-md-6">
+            <div class="project-description">
+              <p class="project-title"><em>CS 175: Detecting Fake Reviews</em></p>
+              <p>March 2020</p>
+              <p>
+                This is our CS 175: Project in AI course project. It is called Detecting Fake Reviews. The idea was to create an AI that will be
+                able to detect if a review is genuine or fake (written by bots or hired by someone to write it) We used the following classification
+                algorithms: Logistic Regression, Naive Bayes, Nearest Neighbor, Decision Trees, Random Forests. We used 4 datasets to test our classifiers.
+                We implemented Bag of Words and Document to Vector for our vectorization techniques. We used human evaluation to compare effectiveness
+                of our models.
+              </p>
+              <ul>
+                 <li><a href="https://github.com/salvillalon45/cs175-Detecting-Fake-Reviews">GitHub Repository</a></li>
+                 <li> | </li>
+                 <li><a href="https://drive.google.com/a/uci.edu/file/d/1n7jS74nU2Ip4Fx4Rm78YEve3uIhPyzSK/view?usp=sharing">Report</a></li>
+              </ul>
+              <p><strong>Technologies Used:</strong> Python, NumPY, scikit-learn, NLTK, Gensim, Stanford Word Segmenter, React, JavaScript, Flask</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 pics">
+            <img src="../static/images/projects/2020/cs175.PNG">
+          </div>
+
+        </div>
+
+
+        <!-- ********************************** -->
+        <!-- CS 125 Healthie -->
+        <div class="row recent-proj">
+          <div class="col-md-6">
+            <div class="project-description">
+              <p class="project-title"><em>CS 125: Healthie</em></p>
+              <p>March 2020</p>
+              <p>
+                This is our CS 125: Next Generation Search Systems course project.Many people have the incentive to live a healthier life, but many do not know where to start. There are a lot of things that go into play such as understanding your calorie intake based on your health goal, the food that you should eat to accomplish this health goal, and many other things. Our app aims to simplify this process for the user. Our app will build a personal model of the user to make a next-generation recommendation. It will make a recommendation based on their health goal, calorie intake, types of food they have logged, and types of food they like. All of these factors will help our app make the best recommendation for what food they should be eating to accomplish their health goal.
+                <strong>Our app was not fully finished, but it was a great learning experience</strong>
+              </p>
+              <ul>
+                <li><a href="https://github.com/salvillalon45/Healthi">GitHub Repository</a></li>
+                <li> | </li>
+                <li><a href="https://docs.google.com/document/d/1uphjDZHBEOnBDy4JbT72Souv8pZyK0vJYjn6l9BZCQw/edit?usp=sharing">Report</a></li>
+              </ul>
+              <p><strong>Technologies Used:</strong> Python, Flask, MongoDB, Elasticsearch, Swift, Edamam’s Search Recipe API</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 pics">
+            <img src="../static/images/projects/2020/cs125.PNG">
+          </div>
+
+        </div>
+
+
+      </div>
+    </div>
+
+
+
+</main>
+
+
+
+  <!-- *************************************
+    Footer Section
+  -->
+  <footer class="footer">
+    <p> Made by Salvador Villalon </p>
+    <ul>
+      <a  href="https://medium.com/@salvav1"><li>Medium</li></a>
+      <li> | </li>
+      <a  href="https://github.com/salvillalon45"><li>GitHub</li></a>
+      <li> | </li>
+      <a  href="https://www.linkedin.com/in/salvadorvillalon/"><li>LinkedIn</li></a>
+      <li> | </li>
+      <a  href="../index.html"><li>personal website version 2</li></a>
+      <li> | </li>
+      <a  href="http://salvador-villalon.appspot.com/"><li>personal website version 1</li></a>
+    </ul>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+
+  </body>
+</html>
