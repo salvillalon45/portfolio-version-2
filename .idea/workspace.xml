@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50434a96-ba6f-4e2c-87d8-f2e2eaa1b3ba" name="Default Changelist" comment="" />
+    <list default="true" id="50434a96-ba6f-4e2c-87d8-f2e2eaa1b3ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/templates/student_experiences.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/student_experiences.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,6 @@
   <component name="ProjectId" id="1ZYMSYGrMqWhMqZ6twSNITvqGoh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -75,11 +76,12 @@
       <workItem from="1585011576986" duration="3899000" />
       <workItem from="1585087163897" duration="41000" />
       <workItem from="1585169058854" duration="16072000" />
+      <workItem from="1591290547152" duration="151000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="719" y="167" key="FileChooserDialogImpl" timestamp="1585011874914">
